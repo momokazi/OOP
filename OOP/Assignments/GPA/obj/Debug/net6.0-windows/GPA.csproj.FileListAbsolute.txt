@@ -1,0 +1,17 @@
+D:\2nd Semester\OOP\Assignments\GPA\bin\Debug\net6.0-windows\GPA.exe
+D:\2nd Semester\OOP\Assignments\GPA\bin\Debug\net6.0-windows\GPA.deps.json
+D:\2nd Semester\OOP\Assignments\GPA\bin\Debug\net6.0-windows\GPA.runtimeconfig.json
+D:\2nd Semester\OOP\Assignments\GPA\bin\Debug\net6.0-windows\GPA.dll
+D:\2nd Semester\OOP\Assignments\GPA\bin\Debug\net6.0-windows\GPA.pdb
+D:\2nd Semester\OOP\Assignments\GPA\obj\Debug\net6.0-windows\GPA.csproj.AssemblyReference.cache
+D:\2nd Semester\OOP\Assignments\GPA\obj\Debug\net6.0-windows\GPA.Form1.resources
+D:\2nd Semester\OOP\Assignments\GPA\obj\Debug\net6.0-windows\GPA.csproj.GenerateResource.cache
+D:\2nd Semester\OOP\Assignments\GPA\obj\Debug\net6.0-windows\GPA.GeneratedMSBuildEditorConfig.editorconfig
+D:\2nd Semester\OOP\Assignments\GPA\obj\Debug\net6.0-windows\GPA.AssemblyInfoInputs.cache
+D:\2nd Semester\OOP\Assignments\GPA\obj\Debug\net6.0-windows\GPA.AssemblyInfo.cs
+D:\2nd Semester\OOP\Assignments\GPA\obj\Debug\net6.0-windows\GPA.csproj.CoreCompileInputs.cache
+D:\2nd Semester\OOP\Assignments\GPA\obj\Debug\net6.0-windows\GPA.dll
+D:\2nd Semester\OOP\Assignments\GPA\obj\Debug\net6.0-windows\refint\GPA.dll
+D:\2nd Semester\OOP\Assignments\GPA\obj\Debug\net6.0-windows\GPA.pdb
+D:\2nd Semester\OOP\Assignments\GPA\obj\Debug\net6.0-windows\GPA.genruntimeconfig.cache
+D:\2nd Semester\OOP\Assignments\GPA\obj\Debug\net6.0-windows\ref\GPA.dll

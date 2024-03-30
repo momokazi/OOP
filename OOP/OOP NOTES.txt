@@ -1,0 +1,54 @@
+Constructors and Destructors
+
+-Can't Call
+-No return type
+-Fixed name
+
+
+Constructor is a function that initializes your data members.
+Destructor is a function that destroys your data members.
+
+When objects are created, constructor runs.
+
+Constructor with empty brackets is called default constructor
+
+Constructors can be more than one.
+There's only one Destructor.
+
+Constructor with parameters is called parameterized constructor.
+
+If we make a pointer based object, destructor does not run on its own. We have to make it run manually be using "delete" keyword followed by the object name.
+
+Public: Access everywhere
+Private: Access in Class
+Protected: Access in class and inherited class
+
+If constructor is private, we can’t create objects.
+
+Types of Inheritance:
+
+1. Simple/Single Inheritance
+2. Multiple Inheritance
+3. Multi-Level Inheritance
+4. Hierarchical Inheritance
+5. Hybrid Inheritance
+
+Hierarchical Inheritance passes on data to multiple sources
+
+Multiple Inheritance is discouraged because it creates a problem called the diamond problem. Only C++ has it and provides a solution for it too.
+
+Such a problem in which grandparents run multiple times due to multiple inheritance is called diamond problem
+
+Solution for diamond problem is virtual inheritance.
+
+A code that gives an error is called an exception
+
+Exception Handling has two types:
+Checked and Unchecked Exceptions
+
+All Exceptions in c++ are unchecked.
+
+Try-Catch blocks are used to deal with exception handling
+Catch runs after throw
+
+If we’re unsure about the data type in catch’s parameter, we use catch(…)

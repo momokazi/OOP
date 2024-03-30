@@ -1,0 +1,109 @@
+﻿  test.cpp
+D:\2nd Semester\OOP\test\test.cpp(14,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(15,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(16,3): error C2065: 'cin': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(17,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(18,3): error C3861: 'gets': identifier not found
+D:\2nd Semester\OOP\test\test.cpp(19,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(20,3): error C3861: 'gets': identifier not found
+D:\2nd Semester\OOP\test\test.cpp(21,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(25,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(26,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(28,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(33,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(34,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(35,3): error C3861: 'gets': identifier not found
+D:\2nd Semester\OOP\test\test.cpp(36,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(37,3): error C3861: 'gets': identifier not found
+D:\2nd Semester\OOP\test\test.cpp(48,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(48,18): error C3861: 'setw': identifier not found
+D:\2nd Semester\OOP\test\test.cpp(48,39): error C3861: 'setw': identifier not found
+D:\2nd Semester\OOP\test\test.cpp(48,60): error C2065: 'endl': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(61,3): error C3861: 'clrscr': identifier not found
+D:\2nd Semester\OOP\test\test.cpp(62,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(63,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(64,3): error C2065: 'cin': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(65,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(66,3): error C3861: 'gets': identifier not found
+D:\2nd Semester\OOP\test\test.cpp(69,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(73,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(74,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(76,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(79,4): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(84,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(85,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(86,3): error C3861: 'gets': identifier not found
+D:\2nd Semester\OOP\test\test.cpp(110,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\2nd Semester\OOP\test\test.cpp(114,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(114,28): error C3861: 'setw': identifier not found
+D:\2nd Semester\OOP\test\test.cpp(114,48): error C3861: 'setw': identifier not found
+D:\2nd Semester\OOP\test\test.cpp(114,69): error C2065: 'endl': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(117,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\2nd Semester\OOP\test\test.cpp(117,9): error C2146: syntax error: missing ';' before identifier 'fp'
+D:\2nd Semester\OOP\test\test.cpp(124,2): error C2065: 'fp': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(124,22): error C2653: 'ios': is not a class or namespace name
+D:\2nd Semester\OOP\test\test.cpp(124,27): error C2065: 'out': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(124,33): error C2653: 'ios': is not a class or namespace name
+D:\2nd Semester\OOP\test\test.cpp(124,38): error C2065: 'app': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(126,3): error C3861: 'clrscr': identifier not found
+D:\2nd Semester\OOP\test\test.cpp(128,3): error C2065: 'fp': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(129,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(130,3): error C2065: 'cin': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(132,2): error C2065: 'fp': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(138,2): error C2065: 'fp': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(138,25): error C2653: 'ios': is not a class or namespace name
+D:\2nd Semester\OOP\test\test.cpp(138,30): error C2065: 'out': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(138,36): error C2653: 'ios': is not a class or namespace name
+D:\2nd Semester\OOP\test\test.cpp(138,41): error C2065: 'app': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(140,3): error C3861: 'clrscr': identifier not found
+D:\2nd Semester\OOP\test\test.cpp(142,3): error C2065: 'fp': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(143,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(144,3): error C2065: 'cin': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(146,2): error C2065: 'fp': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(150,2): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(152,2): error C2065: 'fp': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(152,22): error C2653: 'ios': is not a class or namespace name
+D:\2nd Semester\OOP\test\test.cpp(152,27): error C2065: 'in': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(153,9): error C2065: 'fp': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(161,2): error C2065: 'fp': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(164,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(167,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\2nd Semester\OOP\test\test.cpp(171,2): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(173,2): error C2065: 'fp': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(173,25): error C2653: 'ios': is not a class or namespace name
+D:\2nd Semester\OOP\test\test.cpp(173,30): error C2065: 'in': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(174,9): error C2065: 'fp': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(182,2): error C2065: 'fp': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(185,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(188,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\2nd Semester\OOP\test\test.cpp(194,2): error C3861: 'clrscr': identifier not found
+D:\2nd Semester\OOP\test\test.cpp(195,2): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(196,2): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(197,2): error C2065: 'cin': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(198,2): error C2065: 'fp': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(198,22): error C2653: 'ios': is not a class or namespace name
+D:\2nd Semester\OOP\test\test.cpp(198,27): error C2065: 'in': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(198,32): error C2653: 'ios': is not a class or namespace name
+D:\2nd Semester\OOP\test\test.cpp(198,37): error C2065: 'out': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(199,9): error C2065: 'fp': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(204,4): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(206,17): warning C4309: 'initializing': truncation of constant value
+D:\2nd Semester\OOP\test\test.cpp(207,4): error C2065: 'fp': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(207,18): error C2653: 'ios': is not a class or namespace name
+D:\2nd Semester\OOP\test\test.cpp(207,23): error C2065: 'cur': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(208,4): error C2065: 'fp': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(209,4): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(214,2): error C2065: 'fp': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(217,3): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(220,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\2nd Semester\OOP\test\test.cpp(226,2): error C3861: 'clrscr': identifier not found
+D:\2nd Semester\OOP\test\test.cpp(227,2): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(228,2): error C2065: 'cout': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(229,2): error C2065: 'cin': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(230,2): error C2065: 'fp': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(230,25): error C2653: 'ios': is not a class or namespace name
+D:\2nd Semester\OOP\test\test.cpp(230,30): error C2065: 'in': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(230,35): error C2653: 'ios': is not a class or namespace name
+D:\2nd Semester\OOP\test\test.cpp(230,40): error C2065: 'out': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(231,9): error C2065: 'fp': undeclared identifier
+D:\2nd Semester\OOP\test\test.cpp(231,11): fatal error C1003: error count exceeds 100; stopping compilation
